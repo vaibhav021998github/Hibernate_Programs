@@ -3,11 +3,11 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.velocity</groupId>
-  <artifactId>Mapping2</artifactId>
+  <artifactId>Mapping3</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>jar</packaging>
 
-  <name>Mapping2</name>
+  <name>Mapping3</name>
   <url>http://maven.apache.org</url>
 
   <properties>
@@ -34,5 +34,6 @@
     <artifactId>mysql-connector-java</artifactId>
     <version>8.0.29</version>
 </dependency>
+
   </dependencies>
 </project>
